@@ -1,0 +1,73 @@
+## Angular JS PD workshop
+
+- Style Guide
+  - https://github.com/johnpapa/angular-styleguide
+- Learn Angular from scratch
+  - https://www.codeschool.com/courses/shaping-up-with-angular-js
+  - Directives
+  - Factories
+  - Services
+  - Providers
+  - Modules
+  - Controllers
+- Routing & Templating
+  - Route - "ngRoute"
+  - UI-Router - http://www.funnyant.com/angularjs-ui-router/
+  - New Router - https://angular.github.io/router/
+- Ajax and Promises
+  - $q
+  - $http
+  - $timeout
+- Event Broker
+  - $on
+  - $emit
+  - $broadcast
+  - $timeout
+- Security
+  - http://www.troyhunt.com/2015/02/introducing-angularjs-security.html
+    "http://www.pluralsight.com/courses/angularjs-directive-fundamentals?utm_medium=affiliate&utm_content=314743"
+  - Auth0 - https://github.com/auth0/auth0-angular
+- Build Automation
+  - Gulp
+    - http://www.pluralsight.com/courses/javascript-build-automation-gulpjs
+    - Gulp Plugins
+      - gulp-ngHtml2js
+      - gulp-load-plugins
+      - gulp-util
+      - gulp-plumber
+      - gulp-eslint
+      - gulp-jshint
+      - gulp-jscs
+      - gulp-less
+      - gulp-uglify
+      - gulp-rev
+      - gulp-inject
+  - TeamCity - https://github.com/jonnyzzz/TeamCity.Node
+- Development Environment
+  - Visual Studio + NuGet packages
+  - Client side IDE of choice + API dev solution
+    - Webstorm - https://www.jetbrains.com/webstorm/
+    - Sublime - http://www.sublimetext.com/3
+    - Atom - https://atom.io/
+    - http://www.johnpapa.net/angularjs-snippets-for-sublime-visual-studio-and-webstorm/
+- Server Side Tech
+  - Express (Node) - http://expressjs.com/
+  - Nancy (VS) - http://nancyfx.org/
+  - Web API (VS)
+- Testing
+  - Karma
+  - Protractor + Jasmine - http://angular.github.io/protractor
+  - Chutzpah + Jasmine - https://speakerdeck.com/andrewabest/client-side-testing
+- Angular 1.4
+  - http://blog.ninja-squad.com/2014/12/15/what-is-coming-in-angularjs-1.4/
+- Community Resources
+  - NG-Conf videos
+    - https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA
+  - http://devchat.tv/adventures-in-angular
+  - https://angular-ui.github.io/
+  - https://github.com/RedFrogs/RedFrogs
+  - https://github.com/johnpapa/ng-demos
+- Digest Cycles and $timeout
+- Angular 2.0
+  - Migrating from 1 to 2
+  - https://angular.io/

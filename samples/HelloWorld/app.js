@@ -1,5 +1,11 @@
-var app = angular
-  .module('app', [])
-  .controller('Hello', function() {
-  	this.message = "Hello World";
-  });
+angular
+    .module('app', [])
+    .controller('Hello', Hello);
+
+Hello.$inject = [];
+
+function Hello() {
+    var vm = this;
+
+    vm.message = "Hello World";
+}

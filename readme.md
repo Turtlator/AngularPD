@@ -71,3 +71,7 @@
 - Angular 2.0
   - Migrating from 1 to 2
   - https://angular.io/
+
+
+
+  git config --system core.longpaths true
